@@ -2,6 +2,10 @@
 
 🏆✨ **Winner of Best UX Award at DragonHack 2025** ✨🏆
 
+<div align="center">
+   <img src="frontend/src/assets/dr_zdravko.png" alt="Dr. Zdravko" width="200"/>
+</div>
+
 ## 🚀 Overview
 
 Zdravko is an intelligent health platform that revolutionizes how you understand your lab results. By combining AI-powered analysis with an award-winning intuitive interface, Zdravko makes medical data accessible and actionable for everyone! 🎯
