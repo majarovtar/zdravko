@@ -69,7 +69,7 @@ cd backend
 npm start
 ```
 
-The backend server will run on `http://localhost:5000`
+The backend server will run on `http://localhost:4000`
 
 ### 💻 Start the Frontend Development Server
 
