@@ -1,0 +1,259 @@
+{
+    "K-Sedimentacija": {
+      "english": "Erythrocyte Sedimentation Rate",
+      "normal_range": {
+        "min": 0,
+        "max": 20,
+        "unit": "mm/h"
+      }
+    },
+    "K-Levkociti": {
+      "english": "Leukocytes",
+      "normal_range": {
+        "min": 4,
+        "max": 10,
+        "unit": "10E9/L"
+      }
+    },
+    "K-Eritrociti": {
+      "english": "Erythrocytes",
+      "normal_range": {
+        "min": 4.5,
+        "max": 5.5,
+        "unit": "10E12/L"
+      }
+    },
+    "K-Hemoglobin": {
+      "english": "Hemoglobin",
+      "normal_range": {
+        "min": 130,
+        "max": 170,
+        "unit": "g/L"
+      }
+    },
+    "K-Hematokrit": {
+      "english": "Hematocrit",
+      "normal_range": {
+        "min": 0.400,
+        "max": 0.500,
+        "unit": "L/L"
+      }
+    },
+    "K-MCV": {
+      "english": "Mean Corpuscular Volume (MCV)",
+      "normal_range": {
+        "min": 83,
+        "max": 101,
+        "unit": "f/L"
+      }
+    },
+    "MCH-K": {
+      "english": "Mean Corpuscular Hemoglobin (MCH)",
+      "normal_range": {
+        "min": 27,
+        "max": 32,
+        "unit": "pg"
+      }
+    },
+    "K-MCHC": {
+      "english": "Mean Corpuscular Hemoglobin Concentration (MCHC)",
+      "normal_range": {
+        "min": 315,
+        "max": 345,
+        "unit": "g/L"
+      }
+    },
+    "K-Trombociti": {
+      "english": "Platelets",
+      "normal_range": {
+        "min": 150,
+        "max": 410,
+        "unit": "10E9/L"
+      }
+    },
+    "S-Glukoza": {
+      "english": "Glucose",
+      "normal_range": {
+        "min": 0,
+        "max": 6.1,
+        "unit": "mmol/L"
+      }
+    },
+    "S-Kreatinin": {
+      "english": "Creatinine",
+      "normal_range": {
+        "min": 64,
+        "max": 104,
+        "unit": "µmol/L"
+      }
+    },
+    "S-AST": {
+      "english": "Aspartate Transaminase (AST)",
+      "normal_range": {
+        "min": 0,
+        "max": 0.58,
+        "unit": "µkat/L"
+      }
+    },
+    "S-ALT": {
+      "english": "Alanine Transaminase (ALT)",
+      "normal_range": {
+        "min": 0,
+        "max": 0.74,
+        "unit": "µkat/L"
+      }
+    },
+    "S-Gama GT": {
+      "english": "Gamma-glutamyl transferase",
+      "normal_range": {
+        "min": 0,
+        "max": 0.92,
+        "unit": "µkat/L"
+      }
+    },
+    "S-Holesterol": {
+      "english": "Cholesterol",
+      "normal_range": {
+        "min": 4,
+        "max": 5.7,
+        "unit": "mmol/L"
+      }
+    },
+    "S-HDL Holesterol": {
+      "english": "HDL",
+      "normal_range": {
+        "min": 1.48,
+        "max": 2.4,
+        "unit": "mmol/L"
+      }
+    },
+    "S-LDL Holesterol": {
+      "english": "LDL",
+      "normal_range": {
+        "min": 1,
+        "max": 2.7,
+        "unit": "mmol/L"
+      }
+    },
+    "S-Trigliceridi": {
+      "english": "triglycerides",
+      "normal_range": {
+        "min": 0.6,
+        "max": 1.7,
+        "unit": "mmol/L"
+      }
+    },
+    "U-Rel.gostota": {
+      "english": "Urine Specific Gravity",
+      "normal_range": {
+        "min": 1.003,
+        "max": 1.04,
+        "unit": "1"
+      }
+    },
+    "U-pH": {
+      "english": "Urine pH",
+      "normal_range": {
+        "min": 4.4,
+        "max": 8,
+        "unit": "1"
+      }
+    },
+    "U-Proteini": {
+      "english": "Urine Proteins",
+      "normal_range": {
+        "min": 0,
+        "max": 0,
+        "unit": "poE"
+      }
+    },
+    "U-Glukoza": {
+      "english": "Urine Glucose",
+      "normal_range": {
+        "min": 0,
+        "max": 0,
+        "unit": "poE"
+      }
+    },
+    "U-Metilketoni": {
+      "english": "Urine Ketones",
+      "normal_range": {
+        "min": 0,
+        "max": 0,
+        "unit": "poE"
+      }
+    },
+    "U-Urobilinogen": {
+      "english": "Urobilirubin",
+      "normal_range": {
+        "min": 0,
+        "max": 1,
+        "unit": "E.E"
+      }
+    },
+    "U-Bilirubin": {
+      "english": "Bilirubin",
+      "normal_range": {
+        "min": 0,
+        "max": 0,
+        "unit": "unit"
+      }
+    },
+    "U-Levkociti": {
+      "english": "Urine Leukocytes",
+      "normal_range": {
+        "min": 0,
+        "max": 15,
+        "unit": "unit"
+      }
+    },
+    "U-Nitriti": {
+      "english": "Urine Nitrites",
+      "normal_range": {
+        "min": 0,
+        "max": 0,
+        "unit": "unit"
+      }
+    },
+    "U-Hemoglobin": {
+      "english": "Urine Hemoglobin",
+      "normal_range": {
+        "min": 0,
+        "max": 0,
+        "unit": "unit"
+      }
+    },
+    "Sed-Eritrociti-sveži": {
+      "english": "Urine Sediment Erythrocytes",
+      "normal_range": {
+        "min": 0,
+        "max": 10,
+        "unit": "10E6/L"
+      }
+    },
+    "Sed-Levkociti": {
+      "english": "Urine Sediment Leukocytes",
+      "normal_range": {
+        "min": 0,
+        "max": 15,
+        "unit": "10E6/L"
+      }
+    },
+    "Sed-Bakterije okrogle": {
+      "english": "Urine Sediment Bacteria",
+      "normal_range": {
+        "min": 0,
+        "max": 100,
+        "unit": "1"
+      }
+    },
+    "S-PSA": {
+      "english": "Prostate-Specific Antigen",
+      "normal_range": {
+        "min": 0,
+        "max": 5,
+        "unit": "µg/L"
+      }
+    }
+  }
+

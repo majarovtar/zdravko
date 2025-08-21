@@ -1,0 +1,202 @@
+.results-container {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.results-container h2 {
+  color: #333;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 10px;
+}
+
+.results-container p {
+  margin: 10px 0;
+  color: #555;
+}
+
+.clickable-row {
+  cursor: pointer;
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+  transition: background-color 0.3s ease;
+}
+
+.clickable-row:hover {
+  background-color: #e6f7ff;
+}
+
+.expanded-row {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.loading-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1em;
+  color: #007bff;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.spinner {
+  width: 16px;
+  height: 16px;
+  border: 2px solid #007bff;
+  border-top: 2px solid transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-right: 8px;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.recommendation {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #e9f5ff;
+  border: 1px solid #007bff;
+  border-radius: 8px;
+}
+
+.recommendation.okay {
+  color: green;
+  background-color: #e6ffe6;
+  border: 1px solid green;
+}
+
+.recommendation.semi-okay {
+  color: orange;
+  background-color: #fff4e6;
+  border: 1px solid orange;
+  display: flex; /* Use flexbox to align items */
+  align-items: center; /* Vertically align items */
+  justify-content: space-between; /* Push the button to the right */
+  padding: 10px 15px; /* Adjust padding for better alignment */
+}
+
+.recommendation.bad {
+  color: red;
+  background-color: #ffe6e6;
+  border: 1px solid red;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+/* Button styles */
+button {
+  font-size: 1.1rem;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:focus {
+  outline: 2px solid #0056b3;
+  outline-offset: 2px;
+}
+
+.clickable-row.green {
+  color: green;
+}
+
+.clickable-row.orange {
+  color: orange;
+}
+
+.clickable-row.red {
+  color: red;
+}
+
+.lighter-green-btn {
+  background-color: #3a9a3a; /* Original green */
+  color: white !important; /* Ensure the text is white by default */
+  border: none;
+  border-radius: 13px;
+  padding: 5px 15px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background-color 0.3s ease;
+  float: right;
+}
+
+.lighter-green-btn:hover,
+.lighter-green-btn:focus {
+  background-color: #76c776; /* Slightly lighter green on hover and focus */
+  color: white !important; /* Ensure the text stays white */
+}
+
+.lighter-green-btn:active {
+  background-color: #3a9a3a; /* Match the original green for active state */
+  color: white !important; /* Ensure the text stays white when clicked */
+}
+
+.results-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.clickable-row {
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.clickable-row:hover {
+  transform: scale(1.02);
+}
+
+.recommendation-card {
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.recommendation-card.okay {
+  border-left: 5px solid green;
+}
+
+.recommendation-card.semi-okay {
+  border-left: 5px solid orange;
+}
+
+.recommendation-card.bad {
+  border-left: 5px solid red;
+}
+
+.loading-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6c757d;
+}
