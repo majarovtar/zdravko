@@ -1,4 +1,4 @@
-# 🌟 Meet Zdravko, the AI-Powered Health Platform 🌟
+# 🌟 Meet Zdravko, your AI-Powered Health Assistant 🌟
 
 🏆✨ **Winner of Best UX Award at DragonHack 2025** ✨🏆
 
