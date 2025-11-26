@@ -36,7 +36,7 @@ Zdravko is an intelligent health platform that revolutionizes how you understand
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/zdravko.git
+git clone https://github.com/majarovtar/zdravko.git
 cd zdravko
 ```
 
