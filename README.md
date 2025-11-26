@@ -10,6 +10,7 @@
 
 Zdravko is an intelligent health platform that revolutionizes how you understand your lab results. By combining AI-powered analysis with an award-winning intuitive interface, Zdravko makes medical data accessible and actionable for everyone! 🎯
 
+
 ## ✨ Features
 
 - 📄 **PDF Lab Results Analysis**: Upload your medical lab results in PDF format for instant AI-powered analysis
