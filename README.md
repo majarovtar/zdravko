@@ -13,11 +13,11 @@ Zdravko is an intelligent health platform that revolutionizes how you understand
 
 ## ✨ Features
 
-- 📄 **PDF Lab Results Analysis**: Upload your medical lab results in PDF format for instant AI-powered analysis
-- 🧠 **Personalized Health Insights**: Get tailored explanations based on your age, medical history, and test context
-- 💪 **Lifestyle Recommendations**: Receive actionable suggestions for improving your health
-- 🎨 **User-Friendly Interface**: Award-winning UX design that makes complex medical data easy to understand
-- 📊 **Report History**: Track and review your past analyses
+- 📄 **PDF Lab Results Analysis**: Upload your medical lab results in PDF format for instant AI-powered analysis.
+- 🧠 **Personalized Health Insights**: Get tailored explanations based on your age, medical history, and test context.
+- 💪 **Lifestyle Recommendations**: Receive actionable suggestions for improving your health.
+- 🎨 **User-Friendly Interface**: Award-winning UX design that makes complex medical data easy to understand.
+- 📊 **Report History**: Track and review your past analyses.
 
 ## 🛠️ Tech Stack
 
